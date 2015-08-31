@@ -1,0 +1,60 @@
+ul li{
+    display: inline;
+    margin-right; 9px;
+}
+
+body{
+    margin: auto;
+    
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+.meta{
+    margin-left:600px;
+    margin-top: -50px;
+}
+
+.header{
+    padding-left: 80px;
+    padding-top: 20px;
+    background-color:grey;
+    padding-bottom:5px;
+    
+}
+
+.meta2{
+    padding-right: 50px;
+    margin-top:50px;
+    padding-left: 80px;
+    background-color:#e3e3e3;
+    
+}
+
+.table{
+    margin: auto;
+    margin-top:120;
+    margin-bottom:300;
+    
+    
+}
+
+td {
+    padding: 30px;
+    border: 1px solid grey;
+    
+}
+
+.form{
+    padding-left: 400;
+    padding-top: 80;
+    
+    height: 50px;
+    margin-left:0px;
+    background: #e3e3e3;
+}
+

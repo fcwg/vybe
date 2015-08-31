@@ -1,0 +1,109 @@
+ul li{
+    display: inline;
+    margin-right; 9px;
+}
+
+body{
+    margin: auto;
+    background-image:url(fuckya.png);
+    
+    
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+.meta{
+    margin-left:600px;
+    margin-top: -50px;
+}
+
+.header{
+    padding-left: 80px;
+    padding-top: 20px;
+    background-color:grey;
+    padding-bottom:5px;
+}
+    
+<!--metaheading-->
+
+div {
+    padding-bottom: 500px;
+}
+
+.heading{
+    background-color: grey;
+    text-align:center;
+    color: white;
+}
+
+h2{
+    position: absolute;
+    top: 90px;
+    left:750px;
+    color: red;
+    border: 1px solid black;
+    padding:5px;
+}
+
+.questions{
+    position: absolute;
+    top: 150px;
+    left:750px;}
+
+p{
+    width:300px;
+
+}
+
+.details{
+    position: absolute;
+    top: 500px;
+    left:350px;
+}
+
+
+}
+
+.firstcol{
+    color: grey;
+
+}
+
+.viewmorepics{
+    position:absolute;
+    top: 400px;
+    left:490px;
+    
+
+}
+
+td{border:1px solid grey;
+    padding: 20px;
+}
+
+.online{color:red;
+
+        position:absolute;
+        top:390px;
+        left:360px;
+        font-size:25px;
+        }
+
+
+.message{
+    position: absolute;
+    top:435px;
+    left:360px;
+    font-size:15px;
+    border: 1px solid;
+    padding: 5px;
+    width: 60px;
+
+    
+}
+
+
